@@ -75,7 +75,21 @@ Name: Shilpa J Chethalen
 Project Type: Personal Project (Not affiliated with any university)
 Purpose: Skill development and portfolio enhancement
 
-🌐 Screenshots
+Screenshots
+
+![Layout](Screenshot1.png)
+
+![Layout](Screenshot2.png)
+
+![Input Form](Screenshot3.png)
+
+![Prediction](Screenshot4.png)
+
+![Input Form](Screenshot5.png)
+
+![Prediction](Screenshot6.png)
+
+
 
 
 📄 License
